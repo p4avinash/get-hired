@@ -1,0 +1,5 @@
+.particle {
+  position: absolute;
+  width: 1120px;
+  z-index: -1;
+}

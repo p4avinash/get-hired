@@ -12,14 +12,20 @@ const Card = ({ data }) => {
         <h4>{data.title}</h4>
         <p>{data.name}</p>
         <p>
-          <i class="fa fa-map-marker"></i>&nbsp;&nbsp;
+          <i style={{ cursor: "not-allowed" }} className="fa fa-map-marker"></i>
+          &nbsp;&nbsp;
           {`${data.country}`}
         </p>
       </div>
       <hr />
       <div className="socialLinks">
-        <i className="fa fa-github" />
-        <i className="fa fa-linkedin" />
+        <a href={`https://github.com/${data.githubUsername}`} target="blank">
+          <i className="fa fa-github" />
+        </a>
+
+        <a href={data.linkedInLink} target="blank">
+          <i className="fa fa-linkedin" />
+        </a>
       </div>
     </div>
   );

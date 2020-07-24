@@ -1,8 +1,7 @@
 import React from "react";
 import Card from "../developer-card/Card";
-import { data } from "../../data";
 
-const Cardlist = () => {
+const Cardlist = ({ data }) => {
   return (
     <div>
       {data.map((developer) => (

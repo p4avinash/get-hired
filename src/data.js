@@ -6,7 +6,7 @@ export const data = [
     title: "Web Developer",
     email: "p4avinashkumar@gmail.com",
     githubUsername: `p4avinash`,
-    linkedInUsername: `p4avinash`,
+    linkedInLink: `https://www.linkedin.com/in/p4avinash/`,
     country: "India",
   },
   {
@@ -16,7 +16,7 @@ export const data = [
     title: "Web Developer",
     email: "denisa@gmail.com",
     githubUsername: `denisa`,
-    linkedInUsername: `denisa`,
+    linkedInLink: `https://www.linkedin.com/in/andron-denisa-b2839b168/`,
     country: "Romania",
   },
   {
@@ -26,7 +26,7 @@ export const data = [
     title: "Android Developer",
     email: "f4ayush@gmail.com",
     githubUsername: `f4ayush`,
-    linkedInUsername: `p4avinash`,
+    linkedInLink: `https://www.linkedin.com/in/ayush-raj-anand-3647aa11a/`,
     country: "India",
   },
   {
@@ -36,7 +36,7 @@ export const data = [
     title: "Web Developer",
     email: "raubinsharya@gmail.com",
     githubUsername: `raubinsharya`,
-    linkedInUsername: `raubinsharya`,
+    linkedInLink: `https://www.linkedin.com/in/raubinsharya/`,
     country: "India",
   },
   {
@@ -46,7 +46,7 @@ export const data = [
     title: "Web Developer",
     email: "a4rajnish@gmail.com",
     githubUsername: `a4rajnish`,
-    linkedInUsername: `a4rajnish`,
+    linkedInLink: `https://www.linkedin.com/in/rajnish-kumar-ba157a116/`,
     country: "India",
   },
 ];
