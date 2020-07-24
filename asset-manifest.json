@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/get-hired.git/static/css/main.636ad754.chunk.css",
-    "main.js": "/get-hired.git/static/js/main.034ece85.chunk.js",
-    "main.js.map": "/get-hired.git/static/js/main.034ece85.chunk.js.map",
-    "runtime-main.js": "/get-hired.git/static/js/runtime-main.32a2411f.js",
-    "runtime-main.js.map": "/get-hired.git/static/js/runtime-main.32a2411f.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/get-hired.git/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.09347750.chunk.js": "/get-hired.git/static/js/2.09347750.chunk.js",
-    "static/js/2.09347750.chunk.js.map": "/get-hired.git/static/js/2.09347750.chunk.js.map",
-    "index.html": "/get-hired.git/index.html",
-    "precache-manifest.3493d5a0246080f62512ef1e570ad4a3.js": "/get-hired.git/precache-manifest.3493d5a0246080f62512ef1e570ad4a3.js",
-    "service-worker.js": "/get-hired.git/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/get-hired.git/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.636ad754.chunk.css.map": "/get-hired.git/static/css/main.636ad754.chunk.css.map",
-    "static/js/2.09347750.chunk.js.LICENSE.txt": "/get-hired.git/static/js/2.09347750.chunk.js.LICENSE.txt"
+    "main.css": "/get-hired/static/css/main.636ad754.chunk.css",
+    "main.js": "/get-hired/static/js/main.dc7ef28f.chunk.js",
+    "main.js.map": "/get-hired/static/js/main.dc7ef28f.chunk.js.map",
+    "runtime-main.js": "/get-hired/static/js/runtime-main.71b147af.js",
+    "runtime-main.js.map": "/get-hired/static/js/runtime-main.71b147af.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/get-hired/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.09347750.chunk.js": "/get-hired/static/js/2.09347750.chunk.js",
+    "static/js/2.09347750.chunk.js.map": "/get-hired/static/js/2.09347750.chunk.js.map",
+    "index.html": "/get-hired/index.html",
+    "precache-manifest.e3ee41f7e24c11817d3284bf259c3d1b.js": "/get-hired/precache-manifest.e3ee41f7e24c11817d3284bf259c3d1b.js",
+    "service-worker.js": "/get-hired/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/get-hired/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.636ad754.chunk.css.map": "/get-hired/static/css/main.636ad754.chunk.css.map",
+    "static/js/2.09347750.chunk.js.LICENSE.txt": "/get-hired/static/js/2.09347750.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.32a2411f.js",
+    "static/js/runtime-main.71b147af.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.09347750.chunk.js",
     "static/css/main.636ad754.chunk.css",
-    "static/js/main.034ece85.chunk.js"
+    "static/js/main.dc7ef28f.chunk.js"
   ]
 }
