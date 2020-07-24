@@ -50,8 +50,8 @@ class App extends Component {
     );
     return (
       <div className="tc">
-        <Particles className="particle" params={particlesOptions} />
         <Searchbar onSearchChange={this.onSearchChange} />
+        <Particles className="particle" params={particlesOptions} />
         <Scroll>
           <Cardlist data={filteredDevelopers} />
         </Scroll>
