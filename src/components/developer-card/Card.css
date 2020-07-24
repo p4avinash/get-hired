@@ -1,6 +1,6 @@
 .container {
   border-radius: 10px;
-  background-color: rgba(102, 188, 238, 0.609);
+  /* background-color: rgba(102, 188, 238, 0.609); */
 }
 
 .avatar {
@@ -12,12 +12,39 @@
 .avatar > img {
   cursor: pointer;
 }
-
+/* 
 .avatar > img:hover {
   transform: scale(1.1);
   transition: all 6s ease-out;
-}
+} */
 
 .texts {
   line-height: 0px;
+}
+
+.socialLinks {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.fa {
+  font-size: 30px;
+}
+
+.fa-map-marker {
+  font-size: 20px;
+}
+
+.fa:hover {
+  transform: scale(1.2);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.fa-github:hover {
+  color: black;
+}
+
+.fa-linkedin:hover {
+  color: rgb(50, 50, 250);
 }

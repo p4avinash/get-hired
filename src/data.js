@@ -8,8 +8,6 @@ export const data = [
     githubUsername: `p4avinash`,
     linkedInUsername: `p4avinash`,
     country: "India",
-    state: "Bihar",
-    city: "Muzaffarpur",
   },
   {
     serialNumber: 2,
@@ -20,8 +18,6 @@ export const data = [
     githubUsername: `denisa`,
     linkedInUsername: `denisa`,
     country: "Romania",
-    state: "",
-    city: "",
   },
   {
     serialNumber: 3,
@@ -32,8 +28,6 @@ export const data = [
     githubUsername: `f4ayush`,
     linkedInUsername: `p4avinash`,
     country: "India",
-    state: "U.P",
-    city: "Mau",
   },
   {
     serialNumber: 4,
@@ -44,8 +38,6 @@ export const data = [
     githubUsername: `raubinsharya`,
     linkedInUsername: `raubinsharya`,
     country: "India",
-    state: "Bihar",
-    city: "Bihar Sharif",
   },
   {
     serialNumber: 5,
@@ -56,7 +48,5 @@ export const data = [
     githubUsername: `a4rajnish`,
     linkedInUsername: `a4rajnish`,
     country: "India",
-    state: "Bihar",
-    city: "Patna",
   },
 ];

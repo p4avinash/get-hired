@@ -10,10 +10,17 @@ const Card = ({ data }) => {
       </div>
       <div className="texts">
         <h4>{data.title}</h4>
-        <h4>{data.name}</h4>
-        <p>{`${data.country}`}</p>
+        <p>{data.name}</p>
+        <p>
+          <i class="fa fa-map-marker"></i>&nbsp;&nbsp;
+          {`${data.country}`}
+        </p>
       </div>
-      <div className="socialLinks"></div>
+      <hr />
+      <div className="socialLinks">
+        <i className="fa fa-github" />
+        <i className="fa fa-linkedin" />
+      </div>
     </div>
   );
 };
